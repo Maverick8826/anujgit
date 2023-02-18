@@ -1,1 +1,2 @@
- dil kyu yeh mera shoor kre
+cat anuj.txt
+delhi ke londo 
